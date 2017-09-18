@@ -1,5 +1,11 @@
 test
 
 
+<<<<<<< HEAD
 테스트 해볼게요
 zzzzzzzzzzzzzzzzzzzz
+=======
+zzzzzz
+
+zzzzzzzzzz
+>>>>>>> master
